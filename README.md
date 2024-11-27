@@ -79,7 +79,7 @@ You can obtain Appwrite credentials by signing up on the [Appwrite website](http
 ## Links
 
 - **Next.js Documentation:** https://nextjs.org/learn - Learn about Next.js features and API.
-- **Live demo:** 
+- **Live demo:** https://storage-management-vert.vercel.app/
 
 ## Screenshots
 
