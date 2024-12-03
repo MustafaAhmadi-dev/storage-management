@@ -15,7 +15,7 @@ export default async function layout({
   children: React.ReactNode;
 }) {
   const currentUser = await getCurrentUser();
-  if (!currentUser) redirect("/sign-in");
+  if (!currentUser) redirect("/sign-up");
 
   return (
     <main className="flex h-screen">
